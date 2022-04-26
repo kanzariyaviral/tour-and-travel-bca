@@ -1,0 +1,21 @@
+#foot1{
+    margin-top: 45px;
+    padding-top: 30px;
+    background-color: #0dcaf0!important;
+}
+
+a:link {
+  color: rgb(0, 247, 214);
+}
+
+a:hover{
+  color: blue;
+}
+.colophon__copyright{
+    text-align: center;
+}
+
+#ig1{
+  border-radius: 30px;
+  height: 436px;
+}

@@ -1,0 +1,14 @@
+#btn1{
+    font-size: 14px;
+    width: 100px;
+    height: 39px;
+    padding: 1px 1px 5px 1px;
+    border-radius: 5px;
+
+    
+}
+#btn1:hover{
+    color: black;
+    background-color: white;
+}
+

@@ -1,0 +1,71 @@
+#mno{
+  margin-top: 5px;
+  height: 34px;
+}
+
+#sbtn{
+  height: 34px;
+}
+
+#iiuser{
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0px;
+}
+#iusername{  
+  width: 200px;
+  margin-right: 5px;
+}
+
+#pdob{
+  margin-bottom: 0px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#dob{
+  height: 38px;
+  width: 180px;
+  margin-right: 5px;
+}
+
+#gender{
+  margin-bottom: 0px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#sgender{
+  border-radius: 5px;
+  border-color: grey;
+  height: 38px;
+  margin-right: 5px;
+}
+
+#mob{
+  margin-bottom: 0px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+#imob{
+  margin-right: 5px;
+  
+}
+
+#email{
+  font-weight: bold;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+#iemail{
+  margin-left: 5px;
+}
+
+#t156, #t157, #t158{
+  border: 1px solid;
+  width: 800px;
+  text-align: center;
+}

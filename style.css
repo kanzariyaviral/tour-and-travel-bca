@@ -1,0 +1,56 @@
+/* X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)*/ 
+@media screen and (max-width: 576px){
+    div.medi{
+        background-color: blue;
+        display: block;
+        margin: 5px;
+    }
+    p.medi2{
+        display: block;
+        
+    }
+    
+}
+.red-text{
+    color: red;
+}
+.prefernav{
+    position: fixed;
+}
+.daysbadge{
+    padding: 2px 9px;
+    background: black;
+    border-radius: 13px;
+    color: White;
+    position: absolute;
+    margin-top: -43%;
+    right: 5px;
+    z-index: 1;
+}
+#h5s{
+    text-align: center;
+}
+#ig1{
+    width: 360px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/* Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    div.medi{
+        display:block;
+    }
+}*/
+/* Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+ X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }*/
+

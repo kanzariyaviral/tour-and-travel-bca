@@ -1,0 +1,63 @@
+#h53{
+    margin-left: 20px;
+}
+#h54{
+    width: 300px;
+    margin-left: 20px;
+
+}
+
+#h55{
+    margin-left: 20px;
+}
+
+#h56{
+    margin-left: 20px;
+}
+
+#p54{
+    margin-left: 20px;
+
+    width: 600px;
+
+}
+#p55{
+    margin-left: 20px;
+}
+
+#ig23{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 80px;
+    float: right;
+    height: 190px;
+
+}
+#t1 #t2 #t3{
+    border: 1px solid;
+    width: 200px;
+}
+
+#t1{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#t3{
+    text-align: center;
+}
+
+#t4{
+    font-weight: bold;
+    border: 1px solid;
+    text-align: end;
+}
+#t5{
+    border: 1px solid;
+    font-weight: bold;
+    text-align: center;
+}
+table {
+    border: 1px solid;
+}

@@ -1,0 +1,12 @@
+.filled-space{
+    float: left;
+    width: 40%;
+}
+#dob{
+    height: 30px;
+    width: 90%;
+}
+.filled-space2{
+    float: right;
+    width: 40%;
+}
